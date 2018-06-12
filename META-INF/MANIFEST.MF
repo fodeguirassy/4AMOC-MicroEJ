@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Application-Id: MOCMicroEJProject
+Application-Version: 0.1.0
+Application-PrintableName: 4AMOCMicroEJ
+Application-Description: 4AMOCMicroEJ
+Application-IconsDirectory: icons
+Application-Activities: dev.MainActivity
